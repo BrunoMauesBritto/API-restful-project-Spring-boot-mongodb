@@ -1,4 +1,4 @@
-# Web service project
+# API-restful-project-Spring-boot-mongodb
 
 
 ## About the project
